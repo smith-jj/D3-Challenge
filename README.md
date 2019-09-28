@@ -3,4 +3,6 @@ This assignent required analyzing the current trends shaping people's lives, as 
 
 The data set for the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). Utilize both **html** and **Javascript** to create an interactive visualization of the data findings.
 
+* Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
